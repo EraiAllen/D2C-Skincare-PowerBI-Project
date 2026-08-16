@@ -178,8 +178,6 @@ The dashboard can be used to identify:
 * Major product return reasons.
 * Differences in purchasing behavior across customer age groups and genders.
 
-> **Note:** The final published version should include specific numerical insights from the dashboard rather than only general observations.
-
 ---
 
 ## 📷 Dashboard Preview
