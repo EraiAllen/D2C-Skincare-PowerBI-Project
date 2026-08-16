@@ -190,7 +190,7 @@ The dashboard can be used to identify:
 
 ### Product Analysis
 
-![Product Analysis](screenshots/Product_Analysis.png)
+![Product Analysis](https://github.com/EraiAllen/D2C-Skincare-PowerBI-Project/blob/main/Product%20Analysis.png)
 
 ### State Wise Analysis
 
