@@ -186,7 +186,7 @@ The dashboard can be used to identify:
 
 ### Executive Summary
 
-![Executive Summary](screenshots/Executive_Summary.png)
+![Executive Summary](https://github.com/EraiAllen/D2C-Skincare-PowerBI-Project/blob/main/Executive%20Summary.png)
 
 ### Product Analysis
 
