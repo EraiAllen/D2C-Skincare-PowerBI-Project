@@ -194,7 +194,7 @@ The dashboard can be used to identify:
 
 ### State Wise Analysis
 
-![State Wise Analysis](screenshots/State_Wise_Analysis.png)
+![State Wise Analysis](https://github.com/EraiAllen/D2C-Skincare-PowerBI-Project/blob/main/State%20wise%20Analysis.png)
 
 ### Customer Analysis
 
