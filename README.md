@@ -198,7 +198,7 @@ The dashboard can be used to identify:
 
 ### Customer Analysis
 
-![Customer Analysis](screenshots/Customer_Analysis.png)
+![Customer Analysis](https://github.com/EraiAllen/D2C-Skincare-PowerBI-Project/blob/main/Customer%20Analysis.png)
 
 ### Sales Channel Performance
 
