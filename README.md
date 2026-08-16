@@ -202,7 +202,7 @@ The dashboard can be used to identify:
 
 ### Sales Channel Performance
 
-![Sales Channel Performance](screenshots/Sales_Channel_Performance.png)
+![Sales Channel Performance](https://github.com/EraiAllen/D2C-Skincare-PowerBI-Project/blob/main/Sales%20Channel%20performance.png)
 
 ---
 
