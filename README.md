@@ -167,7 +167,7 @@ The dashboard tracks important business metrics such as:
 
 ## 💡 Business Insights
 
-The dashboard can be used to identify:
+Key findings from the analysis:
 
 * Top-performing skincare products and categories.
 * Low-performing products requiring further investigation.
